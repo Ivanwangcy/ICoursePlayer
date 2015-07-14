@@ -1,0 +1,1 @@
+java -jar yuicompressor-2.4.2.jar ¨Ctype js ¨Ccharset utf-8 -o uiiang.js uiiang-min.js
